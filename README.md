@@ -1,2 +1,2 @@
 # haiku-digitalmedia
-editing is funadobe’s easy to use zoom, flip, fade, repeat 
+editing is fun adobe’s easy to use zoom, flip, fade, repeat 
